@@ -1,2 +1,1 @@
-# Etude_Performance
-Ce Projet c'est un projet qui  permet d'etudier la performance  des Apprenants a partir des donnees ouvertes. le Theme du projet c'est Etude des facteurs qui influence  la performance academiques des Apprenants 
+Ce projet vise à étudier la performance des apprenants à partir de données ouvertes. Il porte sur l’analyse des facteurs influençant la performance académique des apprenants, en utilisant des méthodes statistiques et/ou de science des données afin d’identifier les variables les plus déterminantes.
